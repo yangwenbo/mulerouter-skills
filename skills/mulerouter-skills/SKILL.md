@@ -40,7 +40,7 @@ MULEROUTER_SITE=mulerun
 MULEROUTER_API_KEY=your-api-key
 ```
 
-**Note:** The tool only reads `.env` from the current directory. Run scripts from the skill root (`skills/mulerouter/`).
+**Note:** The tool only reads `.env` from the current directory. Run scripts from the skill root (`skills/mulerouter-skills/`).
 
 ### Step 3: Using `uv` to run scripts
 
